@@ -1,4 +1,4 @@
-# <center> ★Machine Learning Project - Iris Species Classification★</center>
+# <center>Machine Learning Project - Iris Species Classification 🥀</center>
 <p align="center"><img src="https://user-images.githubusercontent.com/54996245/140613608-28e92e3c-15c4-498e-ae99-869ceda5efee.jpg" /></p>
 
 ### Description:
