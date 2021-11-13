@@ -1,5 +1,5 @@
 # <center>AI / ML Project - Iris Species Classification 🥀</center>
-<p align="center"><img src="https://user-images.githubusercontent.com/54996245/141647531-227c963b-6e00-4b3a-bb5d-7ade49598eb5.jpg" width="480"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54996245/141647531-227c963b-6e00-4b3a-bb5d-7ade49598eb5.jpg" width="1000"/></p>
 
 ### Description:
 * The Iris Dataset consists of mutiple samples of Iris Flower.
