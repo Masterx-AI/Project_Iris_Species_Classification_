@@ -21,22 +21,23 @@
   
 ### Some Visuals of the Project:
 
-1. Target Variable Distribution
+**1. Target Variable Distribution
 <p align="left"><img src="https://user-images.githubusercontent.com/54996245/140614833-b4743269-e3e0-4cef-b3c4-cbc17529cad3.png" /></p>
 
-2. Feature-set Distribution
+**2. Feature-set Distribution
 ![image](https://user-images.githubusercontent.com/54996245/140614979-eb4fedf4-ed65-4022-9c5e-e92003d481b0.png)
 ![image](https://user-images.githubusercontent.com/54996245/140614994-bececcc9-23d9-4428-a5b5-48cd028c18d4.png)
 
-3. Relationship between the Feature-set
+**3. Relationship between the Feature-set
 ![image](https://user-images.githubusercontent.com/54996245/140615006-63a294ef-e66b-4819-94de-152d60d9e6f1.png)
 
-4. Data Retention after preforming preprocessing step
+**4. Data Retention after preforming preprocessing step
 
 ![image](https://user-images.githubusercontent.com/54996245/140615012-ba0ea2a2-9b8c-4aa7-82c9-8ce2bca6c4ad.png)
 
-5. ML Algorithm's Scores for the Iris Dataset
-![image](https://user-images.githubusercontent.com/54996245/140615041-10ae0518-b801-41cd-a3fa-9ca186d6e82a.png)
+**5. ML Algorithm's Scores for the Iris Dataset
+
+![image](https://user-images.githubusercontent.com/54996245/147230210-adbf7f03-de4e-4d1e-975a-416292e152fa.png)
 
 
 ### Here are some of the key outcomes of the project:
